@@ -1,6 +1,7 @@
-### Hola, soy Luciano Aguirre 👋 
 
-## Soy Full Stack Developer!!
+### Hi there, I'm Lautaro Stein 👋 
+
+## I'm a Full Stack Developer!!
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
 - 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
