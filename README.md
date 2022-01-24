@@ -1,6 +1,6 @@
-### Hi there, I'm Lautaro Stein 👋 
+### Hola, soy Luciano Aguirre 👋 
 
-## I'm a Full Stack Developer!!
+## Soy Full Stack Developer!!
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
 - 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
@@ -9,16 +9,16 @@
 ##
 
 <div align="center">
-  <img height="25em"  src="https://komarev.com/ghpvc/?username=LautaroStein&label=Profile%20views&color=DAC03C&style=flat" alt="LautaroStein" />
+  <img height="25em"  src="https://komarev.com/ghpvc/?username=lucianhoff&label=Profile%20views&color=DAC03C&style=flat" alt="LautaroStein" />
 </div>
 
 ##
 
 <div align="center">
-  <a href="https://github.com/LautaroStein">
+  <a href="https://github.com/lucianhoff">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LautaroStein&show_icons=true&theme=gruvbox"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroStein&theme=gruvbox"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucianhoff&show_icons=true&theme=gruvbox"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianhoff&theme=gruvbox"/>
     
 </div>
 
